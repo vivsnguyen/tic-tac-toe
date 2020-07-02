@@ -1,3 +1,5 @@
+// in terminal: go to project folder, npm start 
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
